@@ -6,4 +6,12 @@ while i > array.length
   yield array[i]
 end
 
+array
+else
+  puts "Hey! No block was given!"
+end
+end  
+
+
+
 end
